@@ -25,7 +25,7 @@ dependencies:
   state_notifier: ^0.6.0
   flutter_state_notifier: ^0.6.1
   # ui
-  flushbar: ^1.10.4
+  another_flushbar:
 
 dev_dependencies:
   flutter_test:
